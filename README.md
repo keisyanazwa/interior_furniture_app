@@ -1,3 +1,3 @@
-# interior_furniture_app
+Zenspace Interior Furniture Mobile App
 
 A new Flutter project.
