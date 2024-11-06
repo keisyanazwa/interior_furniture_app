@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/ab3b5670-ab64-4643-80f6-dbbf4cff41db
 
 **3. Wishlist Screen**
 - Wishlist & Favorit : Pengguna dapat menambahkan produk ke dalam wishlist atau daftar favorit mereka untuk disimpan dan dibeli di kemudian hari.
+
 ![Cuplikan layar 2024-11-07 034409](https://github.com/user-attachments/assets/f4351d3d-ceda-4acd-aa7c-9ec01b2c6482)
 
 ## Getting Started
