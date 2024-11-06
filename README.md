@@ -11,12 +11,16 @@ https://github.com/user-attachments/assets/ab3b5670-ab64-4643-80f6-dbbf4cff41db
 - Discover More : Aplikasi ini memberikan fitur Discover More untuk menemukan lebih banyak produk furnitur untuk rumah atau kantor yang menarik
 - Recommend For You : Aplikasi ini memberikan rekomendasi kepada pengguna furniture yang sedang tren di masa kini dan menyediakan galeri inspirasi dengan foto-foto ruangan dan desain terbaru yang dikelompokkan berdasarkan tema, gaya, atau tren.
 - Filter dan Sortir Produk : Fitur filter memungkinkan pengguna menyaring produk berdasarkan kategori, ukuran, warna, bahan, harga, dan ketersediaan stok.
+![Cuplikan layar 2024-11-07 034258](https://github.com/user-attachments/assets/508e481a-ff88-4797-a963-10bf8ea0d57c)
        
 **2. Cart Screen**
 - Pembelian dan Pembayaran Online : Fitur ini memungkinkan pengguna untuk memesan produk langsung dari aplikasi dengan memasukkan produk yang ingin di pesan ke keranjang dan menyelesaikan pembayaran secara online.
+![Cuplikan layar 2024-11-07 034348](https://github.com/user-attachments/assets/e3e0b171-bab9-413d-a543-c30e28a7a48d)
+![Cuplikan layar 2024-11-07 034448](https://github.com/user-attachments/assets/affa81e4-0036-4da6-9780-af9a810ca0b6)
 
 **3. Wishlist Screen**
 - Wishlist & Favorit : Pengguna dapat menambahkan produk ke dalam wishlist atau daftar favorit mereka untuk disimpan dan dibeli di kemudian hari.
+![Cuplikan layar 2024-11-07 034409](https://github.com/user-attachments/assets/f4351d3d-ceda-4acd-aa7c-9ec01b2c6482)
 
 ## Getting Started
 
