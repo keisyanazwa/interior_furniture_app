@@ -1,0 +1,32 @@
+name: interior_furniture_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.5.3 < 4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/img/background.jpg
+  - assets/img/explore.jpg
+  - assets/img/rosegrey.jpg
+  - assets/img/Swoon.jpg
+  - assets/img/Sapphire.jpg
+  - assets/img/Chenille.jpg
+  - assets/img/dining1.jpg
+  - assets/img/high_back_office_chair.jpg
+  - assets/img/dining2.jpg
+  - assets/img/minimal.jpg
