@@ -8,10 +8,10 @@ https://github.com/user-attachments/assets/ab3b5670-ab64-4643-80f6-dbbf4cff41db
 
 # Fitur Utama
 **1. Explore Screen**
-     • Discover More : Aplikasi ini memberikan fitur Discover More untuk menemukan lebih banyak produk furnitur untuk rumah atau kantor yang 
-     • Recommend For You : Aplikasi ini memberikan rekomendasi kepada pengguna furniture yang sedang tren di masa kini dan menyediakan galeri 
+     - Discover More : Aplikasi ini memberikan fitur Discover More untuk menemukan lebih banyak produk furnitur untuk rumah atau kantor yang
+     - Recommend For You : Aplikasi ini memberikan rekomendasi kepada pengguna furniture yang sedang tren di masa kini dan menyediakan galeri 
        inspirasi dengan foto-foto ruangan dan desain terbaru yang dikelompokkan berdasarkan tema, gaya, atau tren.
-     • Filter dan Sortir Produk : Fitur filter memungkinkan pengguna menyaring produk berdasarkan kategori, ukuran, warna, bahan, harga, dan 
+     - Filter dan Sortir Produk : Fitur filter memungkinkan pengguna menyaring produk berdasarkan kategori, ukuran, warna, bahan, harga, dan 
        ketersediaan stok.
        
 **2. Cart Screen**
